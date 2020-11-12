@@ -1,6 +1,8 @@
 import os
 
-
+"""
+批量重复名
+"""
 class ImageRename():
     def __init__(self):
         self.path = 'img'  # 需要将图片命名的文件夹路径
